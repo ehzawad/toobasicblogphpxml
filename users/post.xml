@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<document>
+    <post>
+        <posttitle>
+                XML blog man
+        </posttitle>
+        <postdescription>
+            Seems hard XML blog
+        </postdescription>
+        <user>
+            <username>ehzawad</username>
+        </user>
+        <timestamp>13 March, 2018</timestamp>
+    </post>
+    <post>
+
+        <posttitle>
+            PHP and Web Tech
+        </posttitle>
+        <postdescription>
+            This is hard to believe, I am stuck in PHP especially in XML.
+            To learn XML do XML
+        </postdescription>
+        <user>
+            <username>Arabi</username>
+        </user>
+        <timestamp>12 March, 2017</timestamp>
+    </post>
+    <post>
+        <posttitle>
+            Android Development
+        </posttitle>
+        <postdescription>
+            Afif is doing Android Development all the time
+
+        </postdescription>
+        <user>
+            <username>Afif</username>
+        </user>
+        <timestamp>10 March, 2017</timestamp>
+    </post>
+<post><posttitle>Stephen Hawkins</posttitle></post><post><postdescription> Damn It is a sad story...&#xD;
+Big Bang today...</postdescription></post><post><posttitle>Tandry Post</posttitle></post><post><postdescription> Hi, This is Tandry</postdescription></post></document>
